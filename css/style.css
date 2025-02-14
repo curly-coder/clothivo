@@ -472,4 +472,7 @@ body {
     .hero p{
         font-size: 14px;
     }
+    .hero{
+        padding: 50px;
+    }
 }
